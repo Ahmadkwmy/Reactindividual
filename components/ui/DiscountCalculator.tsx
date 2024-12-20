@@ -59,6 +59,7 @@ const DiscountCalculator = () => {
 
 const styles = StyleSheet.create({
   container: {
+    backgroundColor: '#ffffff',
     padding: 20,
   },
   label: {
